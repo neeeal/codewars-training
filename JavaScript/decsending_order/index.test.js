@@ -1,4 +1,4 @@
-const tester = require('./main');
+const tester = require('./index');
 const description = "Testing for fixed tests"
 test(description, () => {
   expect(tester(0)).toBe(0);
