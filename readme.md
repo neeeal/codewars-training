@@ -1,1 +1,1 @@
-# Python Code Training on CodeWars
+# Code Training on CodeWars
